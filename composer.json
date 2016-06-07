@@ -1,0 +1,26 @@
+{
+    "name": "jonnyalexbh mvc",
+    "type": "project",
+    "description": "",
+    "keywords": ["PHP", "Jquery", "AngularJs", "Ajax", "Boostrap", "PDO"],
+    "homepage": "https://github.com/jonnyalexbh",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jonnyalexbh",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/jonnyalexbh",
+        "source": "https://github.com/jonnyalexbh"
+    },
+    "autoload": {
+        "classmap": [
+            "application/core",
+            "application/controller",
+            "application/model",
+            "application/class"
+        ]
+    }
+}

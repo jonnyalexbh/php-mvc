@@ -1,0 +1,11 @@
+/*
+ * Jonnyalexbh
+ * @Descripcion: instalación de la aplicación
+ */
+
+1. Instalar composer gestor de dependencias PHP
+2. Correr el comando composer update desde las consola de Windows ubicados en la 
+ruta del proyecto D:\xampp\htdocs\php-mvc
+3. Tener instalado Node y bower gestor de dependencias del lado del frontend
+4. Ubicados en la carpeta del proyecto D:\xampp\htdocs\php-mvc ejecutar el comando bower update
+5. la BD esta en el archivo php-mvc.sql
