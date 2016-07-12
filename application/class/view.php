@@ -17,4 +17,13 @@ class View {
         require APP . 'view/_templates/footer.php';
     }
 
+    /*
+     * función estatica para incluir head, view y footer
+     */
+
+    public static function ViewLoadSin($path, $data = []) {
+        extract($data);
+        require APP . 'view/' . $path . '.php';
+    }
+
 }

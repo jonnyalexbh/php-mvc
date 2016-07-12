@@ -23,6 +23,9 @@
                         <li><a href="<?php echo URL; ?>home/exampleone">Page 1</a></li>
                         <li><a href="<?php echo URL; ?>home/exampletwo">Page 2</a></li> 
                         <li><a href="<?php echo URL; ?>home/selectsDependent">Select dependientes</a></li> 
+                        <li><a href="<?php echo URL; ?>user/paginacionPhp">Paginación PHP</a></li>
+                        <li><a href="<?php echo URL; ?>user/paginacionPhpAjax">Paginación PHP Ajax</a></li>
+                        <li><a href="<?php echo URL; ?>user/paginacionAngular">Paginación Angular</a></li>
                     </ul>
                 </div>
             </nav>
